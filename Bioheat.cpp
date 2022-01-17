@@ -220,7 +220,7 @@ int main(int argc, char **argv)
 /*-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
 Model* readModel(int argc, char **argv)
 {
-    if (argc - 1 == 0) { cerr << "\n\tError: missing input argument (e.g., T_Iso.txt)." << endl; return nullptr; }
+    if (argc - 1 == 0) { cerr << "\n\tError: missing input argument (e.g., Liver_Iso.txt)." << endl; return nullptr; }
     FILE* file;
     if (fopen_s(&file, argv[1], "r") != 0) { cerr << "\n\tError: cannot open file: " << argv[1] << endl; return nullptr; }
     else
