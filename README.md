@@ -23,7 +23,7 @@ If this code is helpful in your projects, please help to :star: this repo or rec
 ## How to use:
 1.	(cmd)Command Prompt->build path>project_name.exe input.txt. Example: <p align="center"><img src="https://user-images.githubusercontent.com/93865598/149734301-a6b5adcd-3a77-4853-bf2c-c0ff085c5b94.PNG"></p>
 2.	Output: T.vtk
-# How to visualize:
+## How to visualize:
 1.	Open T.vtk. (such as using ParaView)
 <p align="center"><img src="https://user-images.githubusercontent.com/93865598/147665525-3ca085d7-f090-4124-8beb-6bb43494b321.PNG"></p>
 
@@ -31,7 +31,7 @@ If this code is helpful in your projects, please help to :star: this repo or rec
 1.	Liver_Iso.inp (Abaqus input) is provided in the “models”, which was used to create Liver_Iso_n1.txt.
 ## Material types:
 1.	Isotropic, orthotropic, and anisotropic thermal conductivities.
-## Boundary condition (BCs):
+## Boundary conditions (BCs):
 1.	Node index: HFlux, FixT.
 2.	Element index: Perfu, BodyHFlux.
 3.	All Elements: Metabo.
