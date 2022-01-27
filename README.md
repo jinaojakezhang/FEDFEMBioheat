@@ -4,9 +4,12 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/93865598/147665520-523adb97-a3cb-44da-a6d8-c215250d2167.PNG"></p>
 This is the source repository for the paper:
 
-Zhang, J., & Chauhan, S. (2019). Real-time computation of bio-heat transfer in the fast explicit dynamics finite element algorithm (FED-FEM) framework. Numerical Heat Transfer, Part B: Fundamentals, 75(4), 217-238. [doi:10.1080/10407790.2019.1627812](https://www.tandfonline.com/doi/abs/10.1080/10407790.2019.1627812).
+| Zhang, J., & Chauhan, S. (2019). Real-time computation of bio-heat transfer in the fast explicit dynamics finite element algorithm (FED-FEM) framework. *Numerical Heat Transfer, Part B: Fundamentals*, 75(4), 217-238. [doi:10.1080/10407790.2019.1627812](https://www.tandfonline.com/doi/abs/10.1080/10407790.2019.1627812). |
+| --- |
 
-which is based on the work of [doi:10.1016/j.ijthermalsci.2019.01.030](https://www.sciencedirect.com/science/article/abs/pii/S1290072918317186) [[Code]](https://github.com/jinaojakezhang/FEDFEM).
+which is based on the work of
+| Zhang, J., & Chauhan, S. (2019). Fast explicit dynamics finite element algorithm for transient heat transfer. *International Journal of Thermal Sciences*, 139, 160-175. [doi:10.1016/j.ijthermalsci.2019.01.030](https://www.sciencedirect.com/science/article/abs/pii/S1290072918317186) [[Code]](https://github.com/jinaojakezhang/FEDFEM). |
+| --- |
 
 Please cite the above paper if you use this code for your research.
 
